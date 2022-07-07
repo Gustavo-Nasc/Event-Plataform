@@ -16,6 +16,8 @@
 - [Tailwind using Postcss](https://tailwindcss.com/docs/installation/using-postcss)
 - [Phosphor React](https://www.npmjs.com/package/phosphor-react)
 - [Date-fns](https://www.npmjs.com/package/date-fns)
+- [Vime.js](https://vimejs.com)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 
 ## 💻 Projeto
 O Event Plataform é uma aplicação de plataforma de eventos, sendo possível criar, por meio do GraphCMS, novos registros e até novos professores, registro de participantes, etc.
