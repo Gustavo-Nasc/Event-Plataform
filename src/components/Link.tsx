@@ -9,7 +9,7 @@ export function Link(props: LinkProps) {
 
     if (buttonVariant == 'primary') {
         return (
-            <a href="#" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
+            <a href="#" className="bg-gray-700 rounded flex items-center justify-between h-48 gap-6 hover:bg-gray-600 transition-colors">
                 <div className="bg-green-700 h-full p-6 flex items-center">
                     <FileArrowDown size={40} />
                 </div>
@@ -28,7 +28,7 @@ export function Link(props: LinkProps) {
         )
     } else {
         return (
-            <a href="#" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
+            <a href="#" className="bg-gray-700 rounded flex items-center justify-between h-48 gap-6 hover:bg-gray-600 transition-colors">
                 <div className="bg-green-700 h-full p-6 flex items-center">
                     <Image size={40} />
                 </div>
